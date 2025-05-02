@@ -7,6 +7,7 @@ This repository contains the official implementation and supplementary material 
 > **Rethinking Skip-Connections: A Systematic Study of Residual Path Designs in Deep Neural Networks**
 >
 > Di Wang, Xinchi Shi, Yufeng Gao
+>
 > Columbia University
 
 ## Abstract
