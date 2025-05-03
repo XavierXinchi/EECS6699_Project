@@ -37,8 +37,8 @@ Skip-connections are essential components of modern deep neural networks, signif
 Clone the repository and install required dependencies:
 
 ```
-git clone https://github.com/your-repository-link.git
-cd your-repository-name
+git clone https://github.com/XavierXinchi/EECS6699_Project.git
+cd EECS6699_Project
 ```
 
 ### Running Experiments
